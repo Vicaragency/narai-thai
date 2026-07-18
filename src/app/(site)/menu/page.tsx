@@ -24,7 +24,7 @@ export default function MenuPage() {
         ])}
       />
       <PageBanner title="Ons menu" />
-      <Deal />
+      <Deal variant="seigaiha" />
       <MenuList />
       <Cta />
     </>

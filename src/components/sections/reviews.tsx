@@ -5,7 +5,7 @@ import { GoogleG } from "@/components/ui/icons";
 
 export function Reviews() {
   return (
-    <section className="bg-brand">
+    <section className="bg-brand-dark">
       <div className="mx-auto w-full max-w-[1320px] px-6 py-16 lg:py-20">
         <div className="rounded-[28px] bg-beige-20 px-6 py-12 lg:px-14">
           <h2 className="heading-display text-center text-[36px] text-heading sm:text-[46px]">
